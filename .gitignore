@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 cnn/data/
+rnn/text_generation_checkpoints/
